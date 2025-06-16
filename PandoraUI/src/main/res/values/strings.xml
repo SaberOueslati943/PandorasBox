@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="provide_permissions_via_settings">Permission(s) %s must be granted through settings</string>
+</resources>
